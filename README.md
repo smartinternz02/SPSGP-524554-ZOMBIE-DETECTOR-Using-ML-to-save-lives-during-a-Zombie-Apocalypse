@@ -2,6 +2,8 @@
 
 🧟 The Zombie Detector Web App is a web application that predicts the survival chances of individuals and their families in a zombie apocalypse scenario. It takes input data about the alive persona and their family and provides a prediction on whether they will survive or not.
 
+[Demo - https://zombie-b0wz.onrender.com](https://zombie-b0wz.onrender.com)
+
 ![here](static/images/1.png)
 
 ## Features
@@ -42,7 +44,7 @@
 
 🧠 Machine Learning: Python libraries (e.g., scikit-learn, TensorFlow,RandomForest)
 
-🚀 Deployment: Web server (EC2)
+🚀 Deployment: Web server (render)
 
 ## Getting Started
 
